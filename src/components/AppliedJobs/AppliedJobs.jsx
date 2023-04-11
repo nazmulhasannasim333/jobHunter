@@ -34,7 +34,7 @@ const AppliedJobs = () => {
       {filterAppliedItem.map((item, idx) => (
         <div key={idx} className="max-w-6xl mx-auto mb-8">
           <div className="  bg-[#ffffff75] py-12 px-7 border border-gray-200 rounded-xl mx-6 lg:mx-0 shadow-sm">
-            <div className="lg:flex-col flex-row items-center">
+            <div className="lg:flex flex-row items-center">
               <div className="rounded-2xl py-6 px-6 ">
                 <img className="w-60 " src={item.logo} alt="" />
               </div>

@@ -17,7 +17,7 @@ const JobCategory = () => {
           </h1>
           <p>Explore thousands of job opportunities with all the information you need. Its your future</p>
         </div>
-        <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-12 lg:gap-8 px-4 sm:px-6 lg:px-8">
+        <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-12 lg:gap-8 px-4 sm:px-6 lg:px-8 ">
          {
             category.map((item, idx) => <CategoryItem key={idx} item={item}/>)
          }
