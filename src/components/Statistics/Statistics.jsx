@@ -24,7 +24,7 @@ const Dashboard = () => {
   return (
     <div className="max-w-7xl mx-auto">
       <h1 className=" text-center my-12 font-bold text-2xl text-purple-600">Assignment Analytics</h1>
-      <div className="my-16" style={{ width: "100%", height: 500 }}>
+      <div className="my-16 w-full" style={{height: 500 }}>
       <ResponsiveContainer>
         <AreaChart data={Assigments}>
           <CartesianGrid strokeDasharray="3 3" />
