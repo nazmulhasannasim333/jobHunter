@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7mWGwyQjeVQSzjBnLMMVo4pw01BkIEn0JQioAUOlZw&s",
+    "job_title": "Motion Graphic Designer",
+    "company_name": "Airbnb LLC",
+    "job_type": "Remote",
+    "location": "Dhaka, BANGLADESH",
+    "Job_time": "Full-time",
+    "salary": "100k - 150K",
+    "description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requrements": "Bachelor degree to complete any reputational university.",
+    "experiance": "2-3 Years in this field.",
+    "contact": {
+      "email": "info@gmail.com",
+      "phone": "018745674"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://e7.pngegg.com/pngimages/241/697/png-clipart-netflix-full-logo-tech-companies.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "job_type": "Remote",
+    "location": "Pabna, BANGLADESH",
+    "Job_time": "Part-time",
+    "salary": "100k - 120K",
+    "description": "Rresponsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": "Effectively Collaborating closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requrements": "Bachelor degree to complete any reputational university.",
+    "experiance": "1-2 Years in this field.",
+    "contact": {
+      "email": "Nasim@gmail.com",
+      "phone": "01774791"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://e7.pngegg.com/pngimages/1019/288/png-clipart-google-adwords-google-logo-behavioral-retargeting-google-search-engine-optimization-company.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "job_type": "Onsite",
+    "location": "Khulna Shadar, BANGLADESH",
+    "Job_time": "Full-time",
+    "salary": "120k - 180K",
+    "description": "Google for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": "Complete Collaborating closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requrements": "No need any educational requrements.",
+    "experiance": "3-5 Years in this field.",
+    "contact": {
+      "email": "Nazmul@gmail.com",
+      "phone": "01474791"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://flyclipart.com/thumb2/tesla-logo-png-png-image-400549.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "job_type": "Onsite",
+    "location": "Cumilla, BANGLADESH",
+    "Job_time": "Full-time",
+    "salary": "90k - 110K",
+    "description": "Tesla is one of the best for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": "Marketing Collaborating closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requrements": "Minimum Bechelor Regree Complete.",
+    "experiance": "3-4 Years in this field.",
+    "contact": {
+      "email": "tesla@gmail.com",
+      "phone": "81474791"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://e7.pngegg.com/pngimages/662/473/png-clipart-alibaba-group-logo-aliexpress-brand-nyse-baba-ali-g-text-orange.png",
+    "job_title": "Web Developer",
+    "company_name": "Alibaba",
+    "job_type": "Remote",
+    "location": "Rajshahi, BANGLADESH",
+    "Job_time": "Full-time",
+    "salary": "190k - 210K",
+    "description": "Alibaba is a chinese company for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": "Web development Collaborating closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requrements": "No need.",
+    "experiance": "3-4 Years in this field.",
+    "contact": {
+      "email": "alibabaa@gmail.com",
+      "phone": "21474791"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://e7.pngegg.com/pngimages/928/468/png-clipart-canada-amazon-com-california-amazon-drive-amazon-prime-adidas-logo-s-text-service.png",
+    "job_title": "Graphics Designer",
+    "company_name": "Amazon",
+    "job_type": "Remote",
+    "location": "Dublia, Pabna Shadar, BANGLADESH",
+    "Job_time": "Full-time",
+    "salary": "120k - 170K",
+    "description": "Amazon is a Usa Base company for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": "Graphics Design is a firstest Going sectors Collaborating closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educational_requrements": "Masters degree must.",
+    "experiance": "1-2 Years in this field.",
+    "contact": {
+      "email": "Amazon@gmail.com",
+      "phone": "0162147791"
+    }
+  }
+]

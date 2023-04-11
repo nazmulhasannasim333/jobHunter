@@ -1,0 +1,22 @@
+[
+  {
+    "categoryLogo": "https://img.freepik.com/free-vector/gradient-accounting-logo-template_23-2148881841.jpg?w=826&t=st=1681059675~exp=1681060275~hmac=402eb4e990557a97c0c66a297e2d89568129499e6af9910043ef89d7dd5cb0c7",
+    "catgoryName": "Account Manager",
+    "jobsAvailable": "300 Jobs Available"
+  },
+  {
+    "categoryLogo": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?w=1380&t=st=1681060017~exp=1681060617~hmac=501d602682e11677566ee09c2d606500a4133e328675356a291270610372f7c3",
+    "catgoryName": "Graphic Design",
+    "jobsAvailable": "100+ Jobs Available"
+  },
+  {
+    "categoryLogo": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=1380&t=st=1681060266~exp=1681060866~hmac=78649299e54b4c15e2ba8e4b534215d44efd003a5c6a452ba385969cf49d14d0",
+    "catgoryName": "Digital marketing",
+    "jobsAvailable": "150 Jobs Available"
+  },
+  {
+    "categoryLogo": "https://img.freepik.com/free-vector/engineering-flat-banner_1284-24475.jpg?w=1380&t=st=1681060363~exp=1681060963~hmac=2136db87eea91091da5a4148dd7bfa47b567fc004311ab0dab1ccb615dab0f0b",
+    "catgoryName": "Engineering Job",
+    "jobsAvailable": "224 Jobs Available"
+  }
+]
