@@ -20,7 +20,7 @@ const AppliedJobs = () => {
         <h1 className=" text-3xl font-semibold text-center">Applied Jobs</h1>
       </div>
       <div className="py-24">
-      <div className="text-end mb-4 max-w-6xl mx-auto mt-5">
+      <div className="text-end mb-4 max-w-6xl lg:mx-auto mt-5 mr-6 ">
         <select
           value={selectItem}
           onChange={handleChange}
@@ -33,8 +33,8 @@ const AppliedJobs = () => {
       </div>
       {filterAppliedItem.map((item, idx) => (
         <div key={idx} className="max-w-6xl mx-auto mb-8">
-          <div className="  bg-[#ffffff75] py-12 px-7 border border-gray-200 rounded-xl  shadow-sm">
-            <div className="flex items-center">
+          <div className="  bg-[#ffffff75] py-12 px-7 border border-gray-200 rounded-xl mx-6 lg:mx-0 shadow-sm">
+            <div className="lg:flex-col flex-row items-center">
               <div className="rounded-2xl py-6 px-6 ">
                 <img className="w-60 " src={item.logo} alt="" />
               </div>
