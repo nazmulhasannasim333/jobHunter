@@ -25,8 +25,8 @@ const JobDetails = () => {
   };
 
   return (
-    <div className=" bg-[#f0f1fb75]">
-      <h1 className=" text-2xl font-semibold text-center">Job Details</h1>
+    <div className=" bg-[#babfff29]">
+      <h1 className=" text-3xl font-semibold text-center pt-8">Job Details</h1>
       <div className="bg-white ">
         <div className="max-w-7xl mx-auto py-24 mt-24 grid lg:grid-cols-3 gap-6 md:grid-cols-1 px-8">
           <div className="col-span-2">
@@ -45,7 +45,7 @@ const JobDetails = () => {
           </div>
           <div>
             <div>
-              <div className="bg-purple-100 py-6 px-14 rounded-md">
+              <div className="bg-[#98a1ff29] py-6 px-14 rounded-md">
                 <h5 className="my-5 font-semibold text-xl">Job Details</h5>
                 <hr />
                 <div className="flex  items-center gap-2 my-3">
