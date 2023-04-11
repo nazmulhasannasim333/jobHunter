@@ -45,7 +45,7 @@ const JobDetails = () => {
           </div>
           <div>
             <div>
-              <div className="bg-purple-200 py-6 px-14 rounded-md">
+              <div className="bg-purple-100 py-6 px-14 rounded-md">
                 <h5 className="my-5 font-semibold text-xl">Job Details</h5>
                 <hr />
                 <div className="flex  items-center gap-2 my-3">
