@@ -5,7 +5,7 @@ import { Link, NavLink } from "react-router-dom";
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-    <div className=" bg-[#f0f1fb75] ">
+    <div className=" bg-[#babfff2c] ">
       <div className="  max-w-7xl mx-auto">
       <nav className="  flex justify-between items-center">
         <div className="py-5 text-purple-500 font-bold text-4xl">
