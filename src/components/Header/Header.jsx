@@ -82,9 +82,9 @@ const Header = () => {
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
             {!isMenuOpen ? (
-              <Bars3BottomRightIcon className="h-6 w-6 text-black" />
+              <Bars3BottomRightIcon className="h-6 w-6 text-black font-bold" />
             ) : (
-              <XMarkIcon className="h-6 w-6 text-black" />
+              <XMarkIcon className="h-6 w-6 text-white font-bold" />
             )}
           </button>
         </div>
@@ -140,9 +140,11 @@ const Header = () => {
                 </NavLink>
               </li>
               <li>
+                <Link to='/appliedjobs'>
                 <button className="bg-purple-500 px-4 py-3 rounded-md capitalize font-bold hover:opacity-80 ease-in duration-200 mt-3">
                   Start Applying
                 </button>
+                </Link>
               </li>
             </ul>
           </div>
