@@ -41,7 +41,7 @@ const Featured = ({ jobsItem }) => {
             </div>
           </div>
           <Link to={`/jobdetails/${id}`}>
-            <button className="bg-purple-500 text-white px-4 py-2 rounded-sm capitalize font-bold hover:opacity-80 ease-in duration-200 mt-4">
+            <button className="bg-purple-500 text-white px-4 py-2 rounded-sm capitalize font-bold hover:opacity-80 ease-in duration-200 mt-5">
               View Details
             </button>
           </Link>
