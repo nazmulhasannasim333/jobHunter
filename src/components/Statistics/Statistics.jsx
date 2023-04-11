@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import {
   Area,
   AreaChart,
@@ -9,7 +9,7 @@ import {
   YAxis,
 } from "recharts";
 
-const Dashboard = () => {
+const Statistics = () => {
   const Assigments = [
     { id: 1, name: "Assignment-1", marks: 57 },
     { id: 2, name: "Assignment-2", marks: 56 },
@@ -20,7 +20,6 @@ const Dashboard = () => {
     { id: 7, name: "Assignment-7", marks: 60 },
     { id: 8, name: "Assignment-8", marks: 60 },
   ];
-
   return (
     <div className="max-w-7xl mx-auto">
       <h1 className=" text-center my-12 font-bold text-2xl text-purple-600">
@@ -46,4 +45,7 @@ const Dashboard = () => {
   );
 };
 
-export default Dashboard;
+export default Statistics;
+
+
+
