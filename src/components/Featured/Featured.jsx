@@ -32,16 +32,16 @@ const Featured = ({ jobsItem }) => {
           </div>
           <div className="flex items-center gap-10">
             <div className="flex items-center justify-center gap-2">
-              <MapPinIcon className="w-6 h-6 text-gray-400" />
+              <MapPinIcon className="w-6 h-6 text-slate-400 " />
               <p>{location}</p>
             </div>
             <div className="flex items-center justify-center gap-2">
-              <CurrencyDollarIcon className="w-6 h-6 text-gray-400" />
+              <CurrencyDollarIcon className="w-6 h-6 text-slate-400" />
               <p>Salary: {salary}</p>
             </div>
           </div>
           <Link to={`/jobdetails/${id}`}>
-            <button className="bg-purple-500 text-white px-4 py-2 rounded-sm capitalize font-bold hover:opacity-80 ease-in duration-200 mt-3">
+            <button className="bg-purple-500 text-white px-4 py-2 rounded-sm capitalize font-bold hover:opacity-80 ease-in duration-200 mt-4">
               View Details
             </button>
           </Link>
