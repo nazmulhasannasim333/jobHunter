@@ -66,7 +66,7 @@ const Header = () => {
 
             <li>
               <Link to="/appliedjobs">
-              <button className="bg-purple-500 text-white px-6 py-4 rounded-md capitalize font-bold hover:opacity-80 ease-in duration-200">
+              <button className="bg-purple-500 text-white px-6 py-3 rounded-md capitalize font-bold hover:opacity-80 ease-in duration-200">
                 Start Applying
               </button>
               </Link>
