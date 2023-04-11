@@ -89,7 +89,7 @@ const Header = () => {
           </button>
         </div>
         {isMenuOpen && (
-          <div className="lg:hidden bg-slate-800 h-96 opacity-90 absolute inset-0 text-white">
+          <div className="lg:hidden bg-slate-800 h-96 opacity-90 absolute inset-0 z-30 text-white">
             <ul className=" grid place-items-center py-20">
               <li className="font-semibold mt-3">
                 <NavLink
