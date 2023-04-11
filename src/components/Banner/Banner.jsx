@@ -4,7 +4,7 @@ import BannerImage from '../../image/P3OLGJ1 copy 1.png';
 
 const Banner = () => {
     return (
-        <div className=' bg-[#f0f1fb75]'>
+        <div className=' bg-[#babfff29]'>
             <div className=' max-w-7xl mx-auto  flex flex-col md:flex-row justify-center items-center '>
             <div className='w-1/2'>
                 <h1 className='text-6xl font-semibold py-6 leading-none'>Let's make your next great hire. Fast.</h1>
