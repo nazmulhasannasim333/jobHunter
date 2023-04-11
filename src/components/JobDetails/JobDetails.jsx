@@ -45,40 +45,45 @@ const JobDetails = () => {
           </div>
           <div>
             <div>
-              <div className="bg-[#98a1ff29] py-6 px-14 rounded-md">
-                <h5 className="my-5 font-semibold text-xl">Job Details</h5>
+              <div className="bg-[#7e88f729] py-6 px-14 rounded-md">
+                <div className="pb-5 border-b border-gray-300">
+
+                <h5 className=" font-semibold text-xl">Job Details</h5>
+                </div>
                 <hr />
-                <div className="flex  items-center gap-2 my-3">
-                  <CurrencyDollarIcon className="w-6 h-6 text-purple-500" />
+                <div className="flex items-center gap-2 my-5">
+                  <CurrencyDollarIcon className="w-6 h-6 text-[#6f7af3e1]" />
                   <p className="font-semibold">
                     Salary: <span className="font-normal">{job?.salary}</span>
                   </p>
                 </div>
                 <div className="flex j items-center gap-2 my-3">
-                  <BriefcaseIcon className="w-6 h-6 text-purple-500" />
+                  <BriefcaseIcon className="w-6 h-6 text-[#6f7af3e1]" />
                   <p className="font-semibold">
                     Job Title:{" "}
                     <span className="font-normal">{job?.job_title}</span>
                   </p>
                 </div>
+                <div className="pb-4 border-b border-gray-300">
+
                 <h6 className="font-semibold text-xl">Contact Information</h6>
-                <hr />
-                <div className="flex items-center gap-2 my-3">
-                  <PhoneIcon className="w-6 h-6 text-purple-500" />
+                </div>
+                <div className="flex items-center gap-2 my-5">
+                  <PhoneIcon className="w-6 h-6 text-[#6f7af3e1]" />
                   <p className="font-semibold">
                     Phone:{" "}
                     <span className="font-normal">{job?.contact?.phone}</span>
                   </p>
                 </div>
                 <div className="flex items-center gap-2 my-3">
-                  <InboxIcon className="w-6 h-6 text-purple-500" />
+                  <InboxIcon className="w-6 h-6 text-[#6f7af3e1]" />
                   <p className="font-semibold">
                     Email:{" "}
                     <span className="font-normal">{job?.contact?.email}</span>
                   </p>
                 </div>
                 <div className="flex items-center gap-2">
-                  <MapPinIcon className="w-6 h-6 text-purple-500" />
+                  <MapPinIcon className="w-6 h-6 text-[#6f7af3e1]" />
                   <p className="font-semibold">
                     Address:{" "}
                     <span className="font-normal">{job?.location}</span>
@@ -88,7 +93,7 @@ const JobDetails = () => {
               <Link to="/appliedjobs">
                 <button
                   onClick={() => handleApply(job.id)}
-                  className="bg-purple-600 h-10 w-full rounded-md mt-2 text-white"
+                  className="bg-purple-600 h-10 w-full rounded-md mt-2 font-bold text-white"
                 >
                   Apply Now
                 </button>
