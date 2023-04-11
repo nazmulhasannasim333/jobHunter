@@ -16,15 +16,15 @@ const AppliedJobs = () => {
   );
   return (
     <div>
-      <div className="bg-[#f0f1fb75] py-10 text-center">
-        <h1 className=" text-2xl font-semibold text-center">Applied Jobs</h1>
+      <div className="bg-[#babfff29] py-16 text-center">
+        <h1 className=" text-3xl font-semibold text-center">Applied Jobs</h1>
       </div>
       <div className="py-24">
       <div className="text-end mb-4 max-w-6xl mx-auto mt-5">
         <select
           value={selectItem}
           onChange={handleChange}
-          className="bg-slate-50 px-8 py-2"
+          className="bg-slate-100 px-8 py-2"
         >
           <option value="">Filter By</option>
           <option value="Remote">Remote</option>
