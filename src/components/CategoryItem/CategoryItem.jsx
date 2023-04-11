@@ -4,7 +4,7 @@ const CategoryItem = ({item}) => {
     const {categoryLogo, catgoryName,jobsAvailable} = item;
   return (
     <div>
-      <div className="  bg-[#f0f1fb75] py-12 px-7  rounded-xl cursor-pointer ">
+      <div className="  bg-[#babfff2c] py-12 px-7  rounded-xl cursor-pointer ">
         <div className="rounded-2xl py-6 px-6">
           <img className="h-10 w-12"  src={categoryLogo} alt="" />
         </div>
