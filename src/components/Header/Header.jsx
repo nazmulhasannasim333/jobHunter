@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div className=" bg-[#babfff2c] ">
       <div className="  max-w-7xl mx-auto">
-      <nav className="  flex justify-between items-center">
+      <nav className="  lg:flex lg:justify-between  flex justify-around items-center">
         <div className="py-5 text-purple-500 font-bold text-4xl">
           <Link to="/">
             <span className="text-black">Job</span>HunterBD

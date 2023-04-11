@@ -51,11 +51,11 @@ const AppliedJobs = () => {
                 </div>
                 <div className="flex items-center gap-10">
                   <div className="flex items-center justify-center gap-2">
-                    <MapPinIcon className="w-6 h-6 text-gray-400" />
+                    <MapPinIcon className="w-6 h-6 text-slate-400" />
                     <p>{item.location}</p>
                   </div>
                   <div className="flex items-center justify-center gap-2">
-                    <CurrencyDollarIcon className="w-6 h-6 text-gray-400" />
+                    <CurrencyDollarIcon className="w-6 h-6 text-slate-400" />
                     <p>Salary: {item.salary}</p>
                   </div>
                 </div>
