@@ -23,23 +23,25 @@ const Dashboard = () => {
 
   return (
     <div className="max-w-7xl mx-auto">
-      <h1 className=" text-center my-12 font-bold text-2xl text-purple-600">Assignment Analytics</h1>
-      <div className="my-16 w-full" style={{height: 500 }}>
-      <ResponsiveContainer>
-        <AreaChart data={Assigments}>
-          <CartesianGrid strokeDasharray="3 3" />
-          <XAxis dataKey="name" />
-          <YAxis />
-          <Tooltip />
-          <Area
-            type="monotone"
-            dataKey="marks"
-            stroke="#8884d8"
-            fill="#969ce275"
-          />
-        </AreaChart>
-      </ResponsiveContainer>
-    </div>
+      <h1 className=" text-center my-12 font-bold text-2xl text-purple-600">
+        Assignment Analytics
+      </h1>
+      <div className="my-16 w-full" style={{ height: 500 }}>
+        <ResponsiveContainer>
+          <AreaChart data={Assigments}>
+            <CartesianGrid strokeDasharray="3 3" />
+            <XAxis dataKey="name" />
+            <YAxis />
+            <Tooltip />
+            <Area
+              type="monotone"
+              dataKey="marks"
+              stroke="#8884d8"
+              fill="#969ce275"
+            />
+          </AreaChart>
+        </ResponsiveContainer>
+      </div>
     </div>
   );
 };
