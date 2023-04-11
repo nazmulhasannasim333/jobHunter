@@ -18,7 +18,7 @@ const Dashboard = () => {
     { id: 5, name: "Assignment-5", marks: 60 },
     { id: 6, name: "Assignment-6", marks: 60 },
     { id: 7, name: "Assignment-7", marks: 60 },
-    // { id: 8, name: "Assignment-8", marks: 60 },
+    { id: 8, name: "Assignment-8", marks: 60 },
   ];
 
   return (
